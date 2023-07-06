@@ -35,7 +35,7 @@ Install my-project with npm
 
 - [Nicholas Conn](https://www.github.com/NC1107)
 - [Robert](https://github.com/bob122001/)
-- [3](https://www.github.com/)
+- [Chris](https://www.github.com/cg545)
 - [4](https://www.github.com/)
 
 
